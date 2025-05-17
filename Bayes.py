@@ -1,7 +1,5 @@
 import numpy as np
 
-
-# 假设函数来计算概率
 def get_Pdh(data, feature, class_value):
     # 计数特征值在每个类别下的出现次数  
     counts={}
